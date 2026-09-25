@@ -22,3 +22,7 @@ Me pueden encontrar en:
 - [Github | Sergie Code](https://github.com/sergiecode)  
 - [LinkedIn | Sergie Code](https://www.linkedin.com/in/sergiecode/)  
 - [Instagram | Sergie Code](https://www.instagram.com/sergiecode)  
+
+# Acerca de lo que aprendi en esta seccion: 
+- Aprendi mas comandos de git, sus usos, como resolver conflictos y entre otros. Una clase chvre :v.
+- Como trabajar con ramas y mucho mas sjjsj.
